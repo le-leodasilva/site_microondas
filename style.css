@@ -1,0 +1,64 @@
+#inicial{
+		display: flex;
+		justify-content: space-between;
+		border: 3px solid;
+		height: 200px;
+		width: 100%;
+		border-color: black;
+	}
+
+	.tamanho{
+		height: 100%;
+		background-color:white;
+	}
+
+	#marcas {
+		display: flex;
+		height: 110px
+
+	}
+
+	#marcas img {
+		padding: 10px;
+		width: 215px;
+
+	}
+
+	h1{
+		font-size: 100px;
+	}
+
+	body{
+		background-color:white;
+	}
+	.color_select{
+		color:black;
+	}
+	
+	.tamanho_texto{
+		font-size:70px;
+		color:orange;
+	}
+
+	.solicitar{
+		border:3px solid;
+		
+	}
+	.texto_solicitar{
+		color:orange;
+		font-size:60px;
+	}
+
+	.texto_solicitar a{
+		color: orange;
+		text-decoration: none;
+	}
+	.microboom{
+		color:red;
+	}
+
+	* {
+		padding: 0;
+		margin: 0;
+	}
+
